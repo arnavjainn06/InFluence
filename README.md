@@ -1,1 +1,3 @@
-"# InFluence" 
+# InFluence
+
+> Information coming out soon!
